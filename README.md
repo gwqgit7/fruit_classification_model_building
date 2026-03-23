@@ -1,2 +1,2 @@
-# fruit_classification_model_building
-A fruit classification model building process with CNN and FNN.
+# Fruit Classification Model Building
+A fruit classification model building process with CNN and FNN. Building, Training, and Tuning using Jupyter Notebook (Python). This assignment compares and evaluates the performance difference of Convolutional Neural Networks (CNN) and Feedforward Neural Networks (FNN) in image prediction tasks.
